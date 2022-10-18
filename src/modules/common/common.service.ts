@@ -6,6 +6,7 @@ import * as path from 'path';
 enum LogType {
   ERROR = 'error',
   WARNING = 'warning',
+  TEST = 'test',
 }
 
 @Injectable()
